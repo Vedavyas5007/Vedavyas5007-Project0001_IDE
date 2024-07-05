@@ -22,11 +22,11 @@ public class App {
 	}
 	
 
-//	public    String   reverse(String name) {
-//		   StringBuffer  sb=new StringBuffer(name);
-//		   return  sb.reverse().toString();
-//	}
-//	
+	public    String   reverse(String name) {
+		   StringBuffer  sb=new StringBuffer(name);
+		   return  sb.reverse().toString();
+	}
+	
 //	public  int  findNameLength(String  name) {
 //		System.out.println("App.findNameLength() bug 123 fixing is going on");
 //		return  name.length();
